@@ -23,9 +23,6 @@ Or just do in the manual way:
 
 - https://mazipan.space/membuat-commit-otomatis-ke-github/
 
-## Repo using this auto-commit
-
-- You can add your repo here
 
 
 ## Credits
